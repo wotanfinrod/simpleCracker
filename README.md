@@ -1,2 +1,5 @@
-Github pratigi
-Arguman olarak verilen hash kodunu turkce kelimeler listesinde arayip kirmaya calisan program.
+Github pratigi.
+
+
+Arguman olarak verilen hash kodunu turkce kelimeler listesinde arayip decrypt etmeye calsian script.
+
