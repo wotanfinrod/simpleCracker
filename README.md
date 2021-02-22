@@ -1,5 +1,5 @@
 ###///Github pratigi.
 
 
-Arguman olarak verilen hash kodunu turkce kelimeler listesinde arayip decrypt etmeye calsian script.
+Arguman olarak verilen hash kodunu -crypt.crypt()- turkce kelimeler listesinde arayip decrypt etmeye calsian script.
 
